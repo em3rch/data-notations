@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        somemail@gmail.com
+    </sender>
+    <recipient>
+        somemail2@gmail.com
+    </recipient>
+    <title>SOME TITLE</title>
+    <mail-content>
+        SOME MAIL CONTENT
+        SOME MAIL CONTENT
+        SOME MAIL CONTENT
+        SOME MAIL CONTENT
+        SOME MAIL CONTENT
+    </mail-content>
+</email>
+
+
+
