@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <bus brand="Solaris" model="Urbino 12">
+        <length>12</length>
+        <capacity unit="seats">85</capacity>
+        <engine type="diesel" powerUnit="kW">220</engine>
+        <year>2020</year>
+    </bus>
+    <taxi brand="Toyota" model="Prius">
+        <length>4.5</length>
+        <capacity unit="seats">4</capacity>
+        <engine type="hybrid" powerUnit="kW">90</engine>
+        <year>2019</year>
+    </taxi>
+    <tram brand="Stadler Polska" model="Lajkonik">
+        <length>30</length>
+        <capacity unit="seats">200</capacity>
+        <engine type="electric" powerUnit="kW">600</engine>
+        <year>2021</year>
+    </tram>
+</transport>

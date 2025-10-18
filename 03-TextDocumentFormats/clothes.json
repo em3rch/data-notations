@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Gant",
+        "founded": 1949,
+        "headquarters": "New Haven, Connecticut, USA",
+        "employees": 7000,
+        "products": [
+            "Fashion Apparel",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "Audemar Piguet": {
+            "founded": 1875,
+            "headquarters": "Le Brassus, Switzerland",
+            "employees": 1500,
+            "products": [
+                "Luxury Watches",
+                "Accessories"
+            ]
+        }
     }
 ]

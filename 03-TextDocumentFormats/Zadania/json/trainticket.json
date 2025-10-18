@@ -1,0 +1,16 @@
+{
+    "train_tickets": [
+        {
+            "train_number": "IC1234",
+            "departure_station": "Kraków Główny",
+            "arrival_station": "Warszawa Centralna",
+            "date": "2025-10-18",
+            "departure_time": "08:30",
+            "arrival_time": "11:15",
+            "seat_number": "12A",
+            "passenger_name": "Artem Yevtushenko",
+            "ticket_price (zł)": 89.50,
+            "ticket_class": "Second Class"
+        }
+    ]
+}

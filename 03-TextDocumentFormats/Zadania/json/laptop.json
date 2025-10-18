@@ -1,0 +1,16 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"],
+    "screen": "15.6 inch Full HD",
+    "processor": {
+        "brand": "Intel",
+        "model": "Core i5-1135G7",
+        "cores": 4,
+        "baseClock": "2.4 GHz",
+        "boostClock": "4.2 GHz"
+    },
+    "dependable": true
+}

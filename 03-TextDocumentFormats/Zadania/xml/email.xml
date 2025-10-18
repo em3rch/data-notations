@@ -6,7 +6,7 @@
     <recipient>
         somemail2@gmail.com
     </recipient>
-    <title>SOME TITLE</title>
+    <title>SOME MAIL TITLE</title>
     <mail-content>
         SOME MAIL CONTENT
         SOME MAIL CONTENT
@@ -15,6 +15,3 @@
         SOME MAIL CONTENT
     </mail-content>
 </email>
-
-
-
