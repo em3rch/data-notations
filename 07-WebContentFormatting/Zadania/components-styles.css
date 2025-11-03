@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+a:link {
+    font: bold;
+    background-color: green;
+}
+
+a:visited {
+    background-color: plum;
+}
+
+a:hover {
+    font: italic;
+    background-color: yellow;
+}
+
+a:active {
+    font: bold italic;
+    background-color: red;
+}
+
